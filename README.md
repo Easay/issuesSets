@@ -3,7 +3,7 @@
 
 ### HTTP篇
 - [浏览器工作原理详解](https://github.com/Easay/issuesSets/issues/65)
-- [浏览器缓存](https://github.com/Easay/issuesSets/issues/66)
+- [浏览器缓存放在哪里](https://github.com/Easay/issuesSets/issues/66)
 - [HTTP缓存](https://github.com/Easay/issuesSets/issues/1)
 - [HTTP报文](https://github.com/Easay/issuesSets/issues/64)
 - [HTTP状态码](https://github.com/Easay/issuesSets/issues/62)
