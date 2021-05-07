@@ -40,3 +40,14 @@
 - [手写new方法](https://github.com/Easay/issuesSets/issues/30)
 - [手写call、apply和bind方法](https://github.com/Easay/issuesSets/issues/29)
 - [手写instanceof](https://github.com/Easay/issuesSets/issues/27)
+
+### JavaScript篇
+- [函数声明与函数表达式](https://github.com/Easay/issuesSets/issues/2)
+- [闭包](https://github.com/Easay/issuesSets/issues/4)
+- [防抖和节流](https://github.com/Easay/issuesSets/issues/23)
+- [继承的实现方式及比较](https://github.com/Easay/issuesSets/issues/24)
+- [JS中的数据类型及如何判断](https://github.com/Easay/issuesSets/issues/26)
+- [bind、call和apply](https://github.com/Easay/issuesSets/issues/28)
+- [深拷贝和浅拷贝](https://github.com/Easay/issuesSets/issues/31)
+- [Promise详解](https://github.com/Easay/issuesSets/issues/33)
+- [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)
