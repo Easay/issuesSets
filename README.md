@@ -13,6 +13,7 @@
 - [HTTP协议演化](https://github.com/Easay/issuesSets/issues/68)
 - [从输入url到页面加载完成发生了什么？](https://github.com/Easay/issuesSets/issues/59)
 - [Cookie详解](https://github.com/Easay/issuesSets/issues/69)
+- [GET与POST比较](https://github.com/Easay/issuesSets/issues/70)
 
 ### Vue篇
 - [什么是MVVM](https://github.com/Easay/issuesSets/issues/55)
