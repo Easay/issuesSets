@@ -12,6 +12,7 @@
 - [HTTP连接优化](https://github.com/Easay/issuesSets/issues/67)
 - [HTTP协议演化](https://github.com/Easay/issuesSets/issues/68)
 - [从输入url到页面加载完成发生了什么？](https://github.com/Easay/issuesSets/issues/59)
+- [Cookie详解](https://github.com/Easay/issuesSets/issues/69)
 
 ### Vue篇
 - [什么是MVVM](https://github.com/Easay/issuesSets/issues/55)
