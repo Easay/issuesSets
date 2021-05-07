@@ -51,3 +51,10 @@
 - [深拷贝和浅拷贝](https://github.com/Easay/issuesSets/issues/31)
 - [Promise详解](https://github.com/Easay/issuesSets/issues/33)
 - [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)
+
+### CSS篇
+### HTML篇
+### 题目集锦
+- [递归算法实现，数组长度为5且元素是2-32间不重复的随机数](https://github.com/Easay/issuesSets/issues/5)
+- [async和await](https://github.com/Easay/issuesSets/issues/3)
+- [去掉字符串中的空格](https://github.com/Easay/issuesSets/issues/6)
