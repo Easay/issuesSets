@@ -51,6 +51,7 @@
 - [深拷贝和浅拷贝](https://github.com/Easay/issuesSets/issues/31)
 - [Promise详解](https://github.com/Easay/issuesSets/issues/33)
 - [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)
+- [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
