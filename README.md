@@ -40,6 +40,7 @@
 - [手写new方法](https://github.com/Easay/issuesSets/issues/30)
 - [手写call、apply和bind方法](https://github.com/Easay/issuesSets/issues/29)
 - [手写instanceof](https://github.com/Easay/issuesSets/issues/27)
+- [手写函数柯里化](https://github.com/Easay/issuesSets/issues/78)
 
 ### JavaScript篇
 - [函数声明与函数表达式](https://github.com/Easay/issuesSets/issues/2)
@@ -54,6 +55,10 @@
 - [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
 - [JS事件相关-事件冒泡/事件捕获/事件委托](https://github.com/Easay/issuesSets/issues/72)
 - [类数组与数组的区别和转换](https://github.com/Easay/issuesSets/issues/73)
+- [如何正确判断this](https://github.com/Easay/issuesSets/issues/74)
+- [Ajax的请求过程](https://github.com/Easay/issuesSets/issues/75)
+- [new和Object.create的区别](https://github.com/Easay/issuesSets/issues/76)
+- [跨域实现方式及原理](https://github.com/Easay/issuesSets/issues/77)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
