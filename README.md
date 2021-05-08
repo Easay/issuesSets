@@ -59,6 +59,7 @@
 - [Ajax的请求过程](https://github.com/Easay/issuesSets/issues/75)
 - [new和Object.create的区别](https://github.com/Easay/issuesSets/issues/76)
 - [跨域实现方式及原理](https://github.com/Easay/issuesSets/issues/77)
+- [async和await](https://github.com/Easay/issuesSets/issues/79)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
