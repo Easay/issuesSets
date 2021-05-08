@@ -52,6 +52,8 @@
 - [Promise详解](https://github.com/Easay/issuesSets/issues/33)
 - [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)
 - [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
+- [JS事件相关-事件冒泡/事件捕获/事件委托](https://github.com/Easay/issuesSets/issues/72)
+- [类数组与数组的区别和转换](https://github.com/Easay/issuesSets/issues/73)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
