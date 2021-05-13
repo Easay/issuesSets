@@ -32,7 +32,7 @@
 - [v-if和v-for指令为什么不建议同时使用](https://github.com/Easay/issuesSets/issues/57)
 - [Vue组件间数据传递](https://github.com/Easay/issuesSets/issues/58)
 - [Vue中的provide和inject](https://github.com/Easay/issuesSets/issues/81)
-- [Vue中状态的初始化（props/methods）](https://github.com/Easay/issuesSets/issues/82)
+- [Vue中状态的初始化（props/methods/data/computed/watch）](https://github.com/Easay/issuesSets/issues/82)
 
 ### 手撕代码
 - [各种排序算法](https://github.com/Easay/issuesSets/issues/44)
