@@ -31,8 +31,12 @@
 - [v-show和v-if指令的区别](https://github.com/Easay/issuesSets/issues/56)
 - [v-if和v-for指令为什么不建议同时使用](https://github.com/Easay/issuesSets/issues/57)
 - [Vue组件间数据传递](https://github.com/Easay/issuesSets/issues/58)
+- [Vue中的生命周期](https://github.com/Easay/issuesSets/issues/83)
+- [初始化实例属性](https://github.com/Easay/issuesSets/issues/84)
+- [初始化事件](https://github.com/Easay/issuesSets/issues/85)
 - [Vue中的provide和inject](https://github.com/Easay/issuesSets/issues/81)
 - [Vue中状态的初始化（props/methods/data/computed/watch）](https://github.com/Easay/issuesSets/issues/82)
+
 
 ### 手撕代码
 - [各种排序算法](https://github.com/Easay/issuesSets/issues/44)
