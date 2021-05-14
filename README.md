@@ -30,6 +30,7 @@
 - [Vue中的事件机制$on/$off/$once/$emit](https://github.com/Easay/issuesSets/issues/54)
 - [v-show和v-if指令的区别](https://github.com/Easay/issuesSets/issues/56)
 - [v-if和v-for指令为什么不建议同时使用](https://github.com/Easay/issuesSets/issues/57)
+- [Vue组件化——全局组件和局部组件](https://github.com/Easay/issuesSets/issues/86)
 - [Vue组件间数据传递](https://github.com/Easay/issuesSets/issues/58)
 - [Vue中的生命周期](https://github.com/Easay/issuesSets/issues/83)
 - [初始化实例属性](https://github.com/Easay/issuesSets/issues/84)
