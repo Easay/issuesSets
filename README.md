@@ -69,6 +69,7 @@
 - [跨域实现方式及原理](https://github.com/Easay/issuesSets/issues/77)
 - [async和await](https://github.com/Easay/issuesSets/issues/79)
 - [DOM操作](https://github.com/Easay/issuesSets/issues/80)
+- [大文件分片上传+断点续传](https://github.com/Easay/issuesSets/issues/87)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
@@ -94,3 +95,7 @@
 - [递归算法实现，数组长度为5且元素是2-32间不重复的随机数](https://github.com/Easay/issuesSets/issues/5)
 - [async和await](https://github.com/Easay/issuesSets/issues/3)
 - [去掉字符串中的空格](https://github.com/Easay/issuesSets/issues/6)
+
+### 性能优化
+- [图片懒加载](https://github.com/Easay/issuesSets/issues/88)
+- [内存泄露](https://github.com/Easay/issuesSets/issues/37)
