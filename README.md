@@ -99,3 +99,4 @@
 ### 性能优化
 - [图片懒加载](https://github.com/Easay/issuesSets/issues/88)
 - [内存泄露](https://github.com/Easay/issuesSets/issues/37)
+- [雪碧图（CSS Sprites）](https://github.com/Easay/issuesSets/issues/89)
