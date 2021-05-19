@@ -92,6 +92,7 @@
 - [Grid网格布局](https://github.com/Easay/issuesSets/issues/34)
 - [flexbox弹性盒子布局](https://github.com/Easay/issuesSets/issues/35)
 - [回流和重绘](https://github.com/Easay/issuesSets/issues/38)
+- [z-index详谈](https://github.com/Easay/issuesSets/issues/93)
 ### HTML篇
 ### 题目集锦
 - [递归算法实现，数组长度为5且元素是2-32间不重复的随机数](https://github.com/Easay/issuesSets/issues/5)
