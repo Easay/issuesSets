@@ -73,6 +73,7 @@
 - [大文件分片上传+断点续传](https://github.com/Easay/issuesSets/issues/87)
 - [ES6新增特性](https://github.com/Easay/issuesSets/issues/90)🍬
 - [V8中的垃圾回收](https://github.com/Easay/issuesSets/issues/91)
+- [用setTimeout实现setInterval](https://github.com/Easay/issuesSets/issues/95)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
