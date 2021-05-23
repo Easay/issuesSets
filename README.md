@@ -97,6 +97,7 @@
 - [回流和重绘](https://github.com/Easay/issuesSets/issues/38)
 - [z-index详谈](https://github.com/Easay/issuesSets/issues/93)
 - [css的引入方式及优先级](https://github.com/Easay/issuesSets/issues/97)
+- [如何提高渲染时间，改善web性能？](https://github.com/Easay/issuesSets/issues/98)
 ### HTML篇
 ### 题目集锦
 - [递归算法实现，数组长度为5且元素是2-32间不重复的随机数](https://github.com/Easay/issuesSets/issues/5)
