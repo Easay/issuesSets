@@ -39,6 +39,9 @@
 - [Vue中的provide和inject](https://github.com/Easay/issuesSets/issues/81)
 - [Vue中状态的初始化（props/methods/data/computed/watch）](https://github.com/Easay/issuesSets/issues/82)
 - [Vue3.x对比Vue2.x](https://github.com/Easay/issuesSets/issues/94)
+- [Vue中的路由模式](https://github.com/Easay/issuesSets/issues/100)
+- [Vue中class和style如何动态绑定](https://github.com/Easay/issuesSets/issues/101)
+- [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
 
 
 ### 手撕代码
