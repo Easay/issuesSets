@@ -42,6 +42,7 @@
 - [Vue中的路由模式](https://github.com/Easay/issuesSets/issues/100)
 - [Vue中class和style如何动态绑定](https://github.com/Easay/issuesSets/issues/101)
 - [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
+- [Vue中的路由守卫](https://github.com/Easay/issuesSets/issues/103)
 
 
 ### 手撕代码
