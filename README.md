@@ -91,8 +91,8 @@
 - [水平垂直居中](https://github.com/Easay/issuesSets/issues/14)🍬
 - [隐藏元素的方法](https://github.com/Easay/issuesSets/issues/16)
 - [px、rem和em的区别](https://github.com/Easay/issuesSets/issues/19)
-- [伪类和伪元素](https://github.com/Easay/issuesSets/issues/20)
-- [选择符](https://github.com/Easay/issuesSets/issues/21)
+- [伪类和伪元素](https://github.com/Easay/issuesSets/issues/20)🍬
+- [选择符](https://github.com/Easay/issuesSets/issues/21)🍬
 - [CSS3新增特性](https://github.com/Easay/issuesSets/issues/22)
 - [如何实现两栏布局右侧自适应，三栏布局中间自适应](https://github.com/Easay/issuesSets/issues/25)🍬
 - [Grid网格布局](https://github.com/Easay/issuesSets/issues/34)
