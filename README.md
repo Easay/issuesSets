@@ -79,6 +79,7 @@
 - [V8中的垃圾回收](https://github.com/Easay/issuesSets/issues/91)🍬
 - [用setTimeout实现setInterval](https://github.com/Easay/issuesSets/issues/95)
 - [执行环境及作用域](https://github.com/Easay/issuesSets/issues/96)
+- [JS运行机制](https://github.com/Easay/issuesSets/issues/104)
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
