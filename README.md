@@ -116,3 +116,7 @@
 - [雪碧图（CSS Sprites）](https://github.com/Easay/issuesSets/issues/89)
 - [浅谈CSRF攻击](https://github.com/Easay/issuesSets/issues/92)
 - [XSS攻击](https://github.com/Easay/issuesSets/issues/99)
+
+### 场景题
+- [img资源不存在时，如何设置默认图片](https://github.com/Easay/issuesSets/issues/106)
+- [表单数据输入到一半，刷新浏览器数据被消除如何解决](https://github.com/Easay/ele-shop/issues/3)
