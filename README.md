@@ -54,6 +54,7 @@
 - [手写call、apply和bind方法](https://github.com/Easay/issuesSets/issues/29)
 - [手写instanceof](https://github.com/Easay/issuesSets/issues/27)
 - [手写函数柯里化](https://github.com/Easay/issuesSets/issues/78)🍬
+- [数组扁平化](https://github.com/Easay/issuesSets/issues/107)🍬
 
 ### JavaScript篇
 - [函数声明与函数表达式](https://github.com/Easay/issuesSets/issues/2)
