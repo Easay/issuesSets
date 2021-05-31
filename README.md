@@ -33,6 +33,7 @@
 - [v-if和v-for指令为什么不建议同时使用](https://github.com/Easay/issuesSets/issues/57)
 - [Vue组件化——全局组件和局部组件](https://github.com/Easay/issuesSets/issues/86)
 - [Vue组件间数据传递](https://github.com/Easay/issuesSets/issues/58)
+- [Vue的内置全局组件](https://github.com/Easay/issuesSets/issues/109)
 - [Vue中的生命周期](https://github.com/Easay/issuesSets/issues/83)🍬
 - [初始化实例属性](https://github.com/Easay/issuesSets/issues/84)
 - [初始化事件](https://github.com/Easay/issuesSets/issues/85)
@@ -44,7 +45,7 @@
 - [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
 - [Vue中的路由守卫](https://github.com/Easay/issuesSets/issues/103)
 - [Vue的minin混入](https://github.com/Easay/issuesSets/issues/108)
-- [Vue的内置全局组件](https://github.com/Easay/issuesSets/issues/109)
+
 
 
 ### 手撕代码
