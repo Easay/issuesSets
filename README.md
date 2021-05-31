@@ -44,6 +44,7 @@
 - [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
 - [Vue中的路由守卫](https://github.com/Easay/issuesSets/issues/103)
 - [Vue的minin混入](https://github.com/Easay/issuesSets/issues/108)
+- [Vue的内置全局组件](https://github.com/Easay/issuesSets/issues/109)
 
 
 ### 手撕代码
