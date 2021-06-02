@@ -63,6 +63,8 @@
 - [函数声明与函数表达式](https://github.com/Easay/issuesSets/issues/2)
 - [闭包](https://github.com/Easay/issuesSets/issues/4)🍬
 - [防抖和节流](https://github.com/Easay/issuesSets/issues/23)
+- [用setTimeout实现setInterval](https://github.com/Easay/issuesSets/issues/95)
+- [JS实现一个准确的计时器](https://github.com/Easay/issuesSets/issues/105)
 - [继承的实现方式及比较](https://github.com/Easay/issuesSets/issues/24)
 - [JS中的数据类型及如何判断](https://github.com/Easay/issuesSets/issues/26)
 - [bind、call和apply](https://github.com/Easay/issuesSets/issues/28)
@@ -81,10 +83,9 @@
 - [大文件分片上传+断点续传](https://github.com/Easay/issuesSets/issues/87)
 - [ES6新增特性](https://github.com/Easay/issuesSets/issues/90)🍬
 - [V8中的垃圾回收](https://github.com/Easay/issuesSets/issues/91)🍬
-- [用setTimeout实现setInterval](https://github.com/Easay/issuesSets/issues/95)
 - [执行环境及作用域](https://github.com/Easay/issuesSets/issues/96)
 - [JS运行机制](https://github.com/Easay/issuesSets/issues/104)
-- [JS实现一个准确的计时器](https://github.com/Easay/issuesSets/issues/105)
+
 
 ### CSS篇
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
