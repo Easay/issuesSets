@@ -67,6 +67,7 @@
 - [JS实现一个准确的计时器](https://github.com/Easay/issuesSets/issues/105)
 - [继承的实现方式及比较](https://github.com/Easay/issuesSets/issues/24)
 - [JS中的数据类型及如何判断](https://github.com/Easay/issuesSets/issues/26)
+- [JS中声明变量的六种方式](https://github.com/Easay/issuesSets/issues/113)
 - [bind、call和apply](https://github.com/Easay/issuesSets/issues/28)
 - [深拷贝和浅拷贝](https://github.com/Easay/issuesSets/issues/31)
 - [Promise详解](https://github.com/Easay/issuesSets/issues/33)🍬
