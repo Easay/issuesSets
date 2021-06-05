@@ -52,6 +52,7 @@
 - [各种排序算法](https://github.com/Easay/issuesSets/issues/44)
 - [数组中的map方法和reduce方法](https://github.com/Easay/issuesSets/issues/40)
 - [promise.all和promise.race](https://github.com/Easay/issuesSets/issues/36)
+- [实现sleep()方法](https://github.com/Easay/issuesSets/issues/114)
 - [手写深拷贝](https://github.com/Easay/issuesSets/issues/32)
 - [手写new方法](https://github.com/Easay/issuesSets/issues/30)
 - [手写call、apply和bind方法](https://github.com/Easay/issuesSets/issues/29)
