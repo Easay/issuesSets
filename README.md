@@ -7,7 +7,7 @@
 - [HTTP缓存](https://github.com/Easay/issuesSets/issues/1)🍬
 - [HTTP报文](https://github.com/Easay/issuesSets/issues/64)
 - [HTTP状态码](https://github.com/Easay/issuesSets/issues/62)
-- [HTTP协议的请求方法](https://github.com/Easay/issuesSets/issues/61)🍬
+- [HTTP协议的请求方法](https://github.com/Easay/issuesSets/issues/61)🍬🍬
 - [HTTP协议与HTTPS协议](https://github.com/Easay/issuesSets/issues/63)
 - [HTTP连接优化](https://github.com/Easay/issuesSets/issues/67)
 - [HTTP协议演化](https://github.com/Easay/issuesSets/issues/68)
@@ -72,7 +72,7 @@
 - [Promise详解](https://github.com/Easay/issuesSets/issues/33)🍬
 - [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)
 - [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
-- [JS事件相关-事件冒泡/事件捕获/事件委托](https://github.com/Easay/issuesSets/issues/72)
+- [JS事件相关-事件冒泡/事件捕获/事件委托](https://github.com/Easay/issuesSets/issues/72)🍬
 - [类数组与数组的区别和转换](https://github.com/Easay/issuesSets/issues/73)
 - [如何正确判断this](https://github.com/Easay/issuesSets/issues/74)
 - [Ajax的请求过程](https://github.com/Easay/issuesSets/issues/75)
