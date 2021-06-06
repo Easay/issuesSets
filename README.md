@@ -72,7 +72,7 @@
 - [bind、call和apply](https://github.com/Easay/issuesSets/issues/28)
 - [深拷贝和浅拷贝](https://github.com/Easay/issuesSets/issues/31)
 - [Promise详解](https://github.com/Easay/issuesSets/issues/33)🍬
-- [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)
+- [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)🍬
 - [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
 - [JS事件相关-事件冒泡/事件捕获/事件委托](https://github.com/Easay/issuesSets/issues/72)🍬
 - [类数组与数组的区别和转换](https://github.com/Easay/issuesSets/issues/73)
