@@ -18,7 +18,7 @@
 
 ### Vue篇
 - [什么是MVVM](https://github.com/Easay/issuesSets/issues/55)
-- [数据双向绑定之响应式原理](https://github.com/Easay/issuesSets/issues/41)🍬🍬
+- [数据双向绑定之响应式原理](https://github.com/Easay/issuesSets/issues/41)🍬🍬🍬
 - [变化侦测API之$set实现原理](https://github.com/Easay/issuesSets/issues/45)
 - [变化侦测API之$watch实现原理](https://github.com/Easay/issuesSets/issues/43)
 - [变化侦测API之$delete实现原理](https://github.com/Easay/issuesSets/issues/47)
@@ -40,7 +40,7 @@
 - [Vue中的provide和inject](https://github.com/Easay/issuesSets/issues/81)
 - [Vue中状态的初始化（props/methods/data/computed/watch）](https://github.com/Easay/issuesSets/issues/82)
 - [Vue3.x对比Vue2.x](https://github.com/Easay/issuesSets/issues/94)
-- [Vue中的路由模式](https://github.com/Easay/issuesSets/issues/100)
+- [Vue中的路由模式](https://github.com/Easay/issuesSets/issues/100)🍬
 - [Vue中class和style如何动态绑定](https://github.com/Easay/issuesSets/issues/101)
 - [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
 - [Vue中的路由守卫](https://github.com/Easay/issuesSets/issues/103)
@@ -93,8 +93,8 @@
 - [用CSS画一个三角形](https://github.com/Easay/issuesSets/issues/7)
 - [link与@import的区别](https://github.com/Easay/issuesSets/issues/8)
 - [行内元素和块级元素](https://github.com/Easay/issuesSets/issues/9)
-- [盒子模型](https://github.com/Easay/issuesSets/issues/10)🍬
-- [position的取值+定位](https://github.com/Easay/issuesSets/issues/11)🍬
+- [盒子模型](https://github.com/Easay/issuesSets/issues/10)🍬🍬
+- [position的取值+定位](https://github.com/Easay/issuesSets/issues/11)🍬🍬
 - [display的取值](https://github.com/Easay/issuesSets/issues/15)
 - [浮动清除](https://github.com/Easay/issuesSets/issues/12)
 - [说说对BFC规范的理解](https://github.com/Easay/issuesSets/issues/13)
