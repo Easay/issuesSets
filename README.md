@@ -119,6 +119,7 @@
 - [async和await](https://github.com/Easay/issuesSets/issues/3)
 - [去掉字符串中的空格](https://github.com/Easay/issuesSets/issues/6)
 - [实现一个函数只能new调用，通过普通方式调用时抛出错误,并且每次返回的对象里的id属性要递增，不能使用全局变量。](https://github.com/Easay/issuesSets/issues/112)
+- [this指向练习题](https://github.com/Easay/issuesSets/issues/115)
 
 ### 性能优化
 - [图片懒加载](https://github.com/Easay/issuesSets/issues/88)
