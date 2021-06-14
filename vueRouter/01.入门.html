@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src='/vue-router/js/vue.js'></script>
+    <script src='/vue-router/js/vue-router.js'></script>
+    <div id="app">
+        <h1>hello app</h1>
+        <p>
+            <!-- 路由链接 -->
+            <router-link to="/foo">Go to foo</router-link>
+            <router-link to="/bar">Go to Bar</router-link>
+        </p>
+        <!-- 跳转后路由在此处渲染 -->
+        <router-view></router-view>
+    </div>
+    <script>
+        // 1.定义路由组件
+        const foo = {template:'<div>foo</div>'}
+        const bar = {template:'<div>bar</div>'}
+        // 2.定义一些路由，每个路径映射到一个组件
+        const routes = [
+            {path:'/foo',component:foo},
+            {path:'/bar',component:bar}
+        ]
+        // 3.创建路由实例，导入路由选项
+        const router = new VueRouter({
+            routes:routes
+        })
+        // 4.创建并挂载到根实例
+        const app = new Vue({
+            router
+        }).$mount('#app')
+    </script>
+</body>
+</html>

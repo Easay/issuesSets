@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src='/vue-router/js/vue.js'></script>
+    <script src='/vue-router/js/vue-router.js'></script>
+    <div id="app">
+        <p>
+            <router-link to="/user/card12/post/post12">Go to 12</router-link>
+            <router-link to="/user/card13/post/post13">Go to 13</router-link>
+        </p>
+        <router-view></router-view>
+    </div>
+    <script>
+        const User = {
+            template:'<div>User {{ $route.params.postId }}</div>'
+        }
+        const routes = [
+            {path:'/user/:id/post/:postId',component:User}
+        ]
+        const router = new VueRouter({
+            routes
+        });
+        const app = new Vue({
+            router
+        }).$mount('#app');
+    </script>
+</body>
+</html>
