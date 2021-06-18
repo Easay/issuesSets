@@ -300,3 +300,125 @@ const router = new VueRouter({
 
 #### 5.1 嵌套命名路由
 
+```js
+const router = new VueRouter({
+    mode: 'history',
+    routes: [
+        {
+            path: '/settings',
+            // You could also have named views at the top
+            component: UserSettings,
+            children: [{
+                path: 'emails',
+                component: UserEmailsSubscriptions
+            }, {
+                path: 'profile',
+                components: {
+                    default: UserProfile,
+                    helper: UserProfilePreview
+                }
+            }]
+        }
+    ]
+})
+```
+
+### 6. 重定向和别名
+
+#### 6.1 重定向
+
+在`routes`配置中完成。从`/a`到重定向`/b`:
+
+```js
+const router = new VueRouter({
+  routes: [
+    { path: '/a', redirect: '/b' }
+  ]
+})
+```
+
+重定向也可以针对命名路由：
+
+```JS
+const router = new VueRouter({
+  routes: [
+    { path: '/a', redirect: { name: 'foo' }}
+  ]
+})
+```
+
+甚至使用一个函数进行动态重定向：
+
+```js
+const router = new VueRouter({
+  routes: [
+    { path: '/a', redirect: to => {
+      // the function receives the target route as the argument
+      // return redirect path/location here.
+    }}
+  ]
+}
+```
+
+⚠：导航守卫不适用于重定向的路线。
+
+#### 6.2 别名
+
+```js
+const router = new VueRouter({
+  routes: [
+    { path: '/a', component: A, alias: '/b' }
+  ]
+})
+```
+
+### 7 将props传递给路由组件
+
+上述动态路由的写法，会创建与路由的紧密耦合，这限制了组件的灵活性。
+
+可以使用props将其解耦合：
+
+```js
+// 定义组件User
+const User = {
+  props: ['id'],
+  template: '<div>User {{ id }}</div>'
+}
+```
+
+#### 7.1 布尔模式
+
+当`props`被设定为`true`，在`route.params`将被设置作为组分道具。
+
+### 8  历史模式
+
+默认情况下，是hash模式。使用URL散列来模拟完整的URL,以便在URL更改时不会重新加载页面。
+
+历史模式，利用`history.pushState`API实现URL导航，而无法重新加载页面：
+
+```JS
+const router = new VueRouter({
+  mode: 'history',
+  routes: [...]
+})
+```
+
+### 9 数据获取
+
+#### 9.1 导航后获取
+
+使用该方法时，会立即导航和渲染传入的组件，并在组件的`created`钩子中获取数据。它使我们有机会在获取数据时显示加载状态。
+
+#### 9.2 导航前获取
+
+可以在`beforeRouteEnter`传入组件的守卫中执行数据获取，并且只有`next`在获取完成时才调用：
+
+```js
+beforeRouteEnter (to, from, next) {
+    getPost(to.params.id, (err, post) => {
+      next(vm => vm.setData(err, post))
+    })
+  },
+```
+
+这种情况，当为传入视图获取资源时，视图将停留在前一视图。建议在获取数据时显示进度条。
