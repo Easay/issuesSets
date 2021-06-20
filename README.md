@@ -15,6 +15,7 @@
 - [Cookie详解](https://github.com/Easay/issuesSets/issues/69)
 - [GET与POST比较](https://github.com/Easay/issuesSets/issues/70)
 - [TCP协议](https://github.com/Easay/issuesSets/issues/60)🍬
+- [DNS相关](https://github.com/Easay/issuesSets/issues/118)
 
 ### Vue篇
 - [什么是MVVM](https://github.com/Easay/issuesSets/issues/55)
