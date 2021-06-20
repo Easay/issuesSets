@@ -47,7 +47,7 @@
 - [Vue中$route和$router的区别](https://github.com/Easay/issuesSets/issues/117)
 - [Vue中class和style如何动态绑定](https://github.com/Easay/issuesSets/issues/101)
 - [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
-- [Vue的minin混入](https://github.com/Easay/issuesSets/issues/108)
+- [Vue的mixin混入](https://github.com/Easay/issuesSets/issues/108)
 
 
 
