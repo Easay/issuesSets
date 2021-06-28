@@ -91,6 +91,7 @@
 - [V8中的垃圾回收](https://github.com/Easay/issuesSets/issues/91)🍬
 - [执行环境及作用域](https://github.com/Easay/issuesSets/issues/96)
 - [JS运行机制](https://github.com/Easay/issuesSets/issues/104)
+- [执行上下文详解](https://github.com/mqyqingfeng/Blog/issues/4)（搬运）
 
 
 ### CSS篇
