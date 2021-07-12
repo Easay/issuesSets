@@ -64,6 +64,7 @@
 - [数组扁平化](https://github.com/Easay/issuesSets/issues/107)🍬
 
 ### JavaScript篇
+- [JS异步加载脚本的方式](https://github.com/Easay/issuesSets/issues/122)
 - [函数声明与函数表达式](https://github.com/Easay/issuesSets/issues/2)
 - [闭包](https://github.com/Easay/issuesSets/issues/4)🍬
 - [防抖和节流](https://github.com/Easay/issuesSets/issues/23)
