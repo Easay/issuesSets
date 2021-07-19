@@ -49,6 +49,7 @@
 - [怎样理解Vue的单向数据流](https://github.com/Easay/issuesSets/issues/102)
 - [Vue的mixin混入](https://github.com/Easay/issuesSets/issues/108)
 - [Vue过滤器filter的使用](https://github.com/Easay/issuesSets/issues/123)
+- [Vuex学习笔记](https://github.com/Easay/issuesSets/issues/127)
 
 
 
