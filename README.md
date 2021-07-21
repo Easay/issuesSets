@@ -86,6 +86,7 @@
 - [类数组与数组的区别和转换](https://github.com/Easay/issuesSets/issues/73)
 - [如何正确判断this](https://github.com/Easay/issuesSets/issues/74)
 - [Ajax的请求过程](https://github.com/Easay/issuesSets/issues/75)
+- [Axios学习笔记](https://github.com/Easay/issuesSets/issues/129)
 - [new和Object.create的区别](https://github.com/Easay/issuesSets/issues/76)
 - [跨域实现方式及原理](https://github.com/Easay/issuesSets/issues/77)🍬
 - [async和await](https://github.com/Easay/issuesSets/issues/79)
