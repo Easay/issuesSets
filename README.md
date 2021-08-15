@@ -98,6 +98,7 @@
 - [JS运行机制](https://github.com/Easay/issuesSets/issues/104)
 - [执行上下文详解](https://github.com/mqyqingfeng/Blog/issues/4)（搬运）
 - [深入变量对象](https://github.com/mqyqingfeng/Blog/issues/5)（搬运）
+- [不用var声明和用var声明的区别](https://github.com/Easay/issuesSets/issues/130)
 
 
 ### CSS篇
