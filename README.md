@@ -83,6 +83,7 @@
 - [JS中的日期对象Date详解](https://github.com/Easay/issuesSets/issues/121)
 - [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
 - [JS事件相关-事件冒泡/事件捕获/事件委托](https://github.com/Easay/issuesSets/issues/72)🍬
+- [event.currentTarget与event.target的区别](https://www.jianshu.com/p/1dd668ccc97a)
 - [类数组与数组的区别和转换](https://github.com/Easay/issuesSets/issues/73)
 - [如何正确判断this](https://github.com/Easay/issuesSets/issues/74)
 - [Ajax的请求过程](https://github.com/Easay/issuesSets/issues/75)
