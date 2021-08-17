@@ -4,14 +4,14 @@
 ### HTTP篇
 - [浏览器工作原理详解](https://github.com/Easay/issuesSets/issues/65)
 - [浏览器缓存放在哪里](https://github.com/Easay/issuesSets/issues/66)
-- [HTTP缓存](https://github.com/Easay/issuesSets/issues/1)🍬
+- [HTTP缓存](https://github.com/Easay/issuesSets/issues/1)🍬🍬
 - [HTTP报文](https://github.com/Easay/issuesSets/issues/64)
 - [HTTP状态码](https://github.com/Easay/issuesSets/issues/62)
 - [HTTP协议的请求方法](https://github.com/Easay/issuesSets/issues/61)🍬🍬
-- [HTTP协议与HTTPS协议](https://github.com/Easay/issuesSets/issues/63)
+- [HTTP协议与HTTPS协议](https://github.com/Easay/issuesSets/issues/63)🍬
 - [HTTP连接优化](https://github.com/Easay/issuesSets/issues/67)
 - [HTTP协议演化](https://github.com/Easay/issuesSets/issues/68)
-- [从输入url到页面加载完成发生了什么？](https://github.com/Easay/issuesSets/issues/59)🍬
+- [从输入url到页面加载完成发生了什么？](https://github.com/Easay/issuesSets/issues/59)🍬🍬
 - [Cookie详解](https://github.com/Easay/issuesSets/issues/69)
 - [GET与POST比较](https://github.com/Easay/issuesSets/issues/70)
 - [TCP协议](https://github.com/Easay/issuesSets/issues/60)🍬
@@ -19,7 +19,7 @@
 
 ### Vue篇
 - [什么是MVVM](https://github.com/Easay/issuesSets/issues/55)
-- [数据双向绑定之响应式原理](https://github.com/Easay/issuesSets/issues/41)🍬🍬🍬
+- [数据双向绑定之响应式原理](https://github.com/Easay/issuesSets/issues/41)🍬🍬🍬🍬
 - [变化侦测API之$set实现原理](https://github.com/Easay/issuesSets/issues/45)
 - [变化侦测API之$watch实现原理](https://github.com/Easay/issuesSets/issues/43)
 - [变化侦测API之$delete实现原理](https://github.com/Easay/issuesSets/issues/47)
@@ -54,7 +54,7 @@
 
 
 ### 手撕代码
-- [各种排序算法](https://github.com/Easay/issuesSets/issues/44)
+- [各种排序算法](https://github.com/Easay/issuesSets/issues/44)🍬
 - [数组中的map方法和reduce方法](https://github.com/Easay/issuesSets/issues/40)
 - [promise.all和promise.race](https://github.com/Easay/issuesSets/issues/36)
 - [实现sleep()方法](https://github.com/Easay/issuesSets/issues/114)
@@ -62,13 +62,13 @@
 - [手写new方法](https://github.com/Easay/issuesSets/issues/30)
 - [手写call、apply和bind方法](https://github.com/Easay/issuesSets/issues/29)
 - [手写instanceof](https://github.com/Easay/issuesSets/issues/27)
-- [手写函数柯里化](https://github.com/Easay/issuesSets/issues/78)🍬
+- [手写函数柯里化](https://github.com/Easay/issuesSets/issues/78)🍬🍬
 - [数组扁平化](https://github.com/Easay/issuesSets/issues/107)🍬
 
 ### JavaScript篇
-- [JS异步加载脚本的方式](https://github.com/Easay/issuesSets/issues/122)
+- [JS异步加载脚本的方式](https://github.com/Easay/issuesSets/issues/122)🍬
 - [函数声明与函数表达式](https://github.com/Easay/issuesSets/issues/2)
-- [闭包](https://github.com/Easay/issuesSets/issues/4)🍬
+- [闭包](https://github.com/Easay/issuesSets/issues/4)🍬🍬
 - [防抖和节流](https://github.com/Easay/issuesSets/issues/23)
 - [用setTimeout实现setInterval](https://github.com/Easay/issuesSets/issues/95)
 - [JS实现一个准确的计时器](https://github.com/Easay/issuesSets/issues/105)
@@ -78,7 +78,7 @@
 - [JS中声明变量的六种方式](https://github.com/Easay/issuesSets/issues/113)
 - [bind、call和apply](https://github.com/Easay/issuesSets/issues/28)
 - [深拷贝和浅拷贝](https://github.com/Easay/issuesSets/issues/31)
-- [Promise详解](https://github.com/Easay/issuesSets/issues/33)🍬
+- [Promise详解](https://github.com/Easay/issuesSets/issues/33)🍬🍬
 - [JS中的数组详解](https://github.com/Easay/issuesSets/issues/39)🍬
 - [JS中的日期对象Date详解](https://github.com/Easay/issuesSets/issues/121)
 - [JS设计模式](https://github.com/Easay/issuesSets/issues/71)
@@ -89,8 +89,8 @@
 - [Ajax的请求过程](https://github.com/Easay/issuesSets/issues/75)
 - [Axios学习笔记](https://github.com/Easay/issuesSets/issues/129)
 - [new和Object.create的区别](https://github.com/Easay/issuesSets/issues/76)
-- [跨域实现方式及原理](https://github.com/Easay/issuesSets/issues/77)🍬
-- [async和await](https://github.com/Easay/issuesSets/issues/79)
+- [跨域实现方式及原理](https://github.com/Easay/issuesSets/issues/77)🍬🍬
+- [async和await](https://github.com/Easay/issuesSets/issues/79)🍬
 - [DOM操作](https://github.com/Easay/issuesSets/issues/80)
 - [大文件分片上传+断点续传](https://github.com/Easay/issuesSets/issues/87)
 - [ES6新增特性](https://github.com/Easay/issuesSets/issues/90)🍬
@@ -108,7 +108,7 @@
 - [行内元素和块级元素](https://github.com/Easay/issuesSets/issues/9)
 - [盒子模型](https://github.com/Easay/issuesSets/issues/10)🍬🍬
 - [position的取值+定位](https://github.com/Easay/issuesSets/issues/11)🍬🍬
-- [display的取值](https://github.com/Easay/issuesSets/issues/15)
+- [display的取值](https://github.com/Easay/issuesSets/issues/15)🍬
 - [浮动清除](https://github.com/Easay/issuesSets/issues/12)
 - [说说对BFC规范的理解](https://github.com/Easay/issuesSets/issues/13)
 - [水平垂直居中](https://github.com/Easay/issuesSets/issues/14)🍬
@@ -120,7 +120,7 @@
 - [如何实现两栏布局右侧自适应，三栏布局中间自适应](https://github.com/Easay/issuesSets/issues/25)🍬
 - [Grid网格布局](https://github.com/Easay/issuesSets/issues/34)
 - [flexbox弹性盒子布局](https://github.com/Easay/issuesSets/issues/35)
-- [回流和重绘](https://github.com/Easay/issuesSets/issues/38)
+- [回流和重绘](https://github.com/Easay/issuesSets/issues/38)🍬
 - [z-index详谈](https://github.com/Easay/issuesSets/issues/93)
 - [css的引入方式及优先级](https://github.com/Easay/issuesSets/issues/97)
 - [如何减少渲染时间，改善web性能？](https://github.com/Easay/issuesSets/issues/98)
