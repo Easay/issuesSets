@@ -126,6 +126,7 @@
 - [z-index详谈](https://github.com/Easay/issuesSets/issues/93)
 - [css的引入方式及优先级](https://github.com/Easay/issuesSets/issues/97)
 - [如何减少渲染时间，改善web性能？](https://github.com/Easay/issuesSets/issues/98)
+- [opacity、transparent以及rgba的区别](https://github.com/Easay/issuesSets/issues/134)
 ### HTML篇
 - [Doctype](https://github.com/Easay/issuesSets/issues/110)
 - [HTML5新特性](https://github.com/Easay/issuesSets/issues/111)
