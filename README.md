@@ -144,6 +144,7 @@
 - [雪碧图（CSS Sprites）](https://github.com/Easay/issuesSets/issues/89)
 - [浅谈CSRF攻击](https://github.com/Easay/issuesSets/issues/92)
 - [XSS攻击](https://github.com/Easay/issuesSets/issues/99)
+- [服务端渲染SSR](https://github.com/Easay/issuesSets/issues/133)
 
 ### 场景题
 - [img资源不存在时，如何设置默认图片](https://github.com/Easay/issuesSets/issues/106)
