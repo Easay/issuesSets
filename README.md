@@ -16,6 +16,7 @@
 - [GET与POST比较](https://github.com/Easay/issuesSets/issues/70)
 - [TCP协议](https://github.com/Easay/issuesSets/issues/60)🍬
 - [DNS相关](https://github.com/Easay/issuesSets/issues/118)
+- [浏览器关闭后，Session会结束吗？](https://github.com/Easay/issuesSets/issues/132)
 
 ### Vue篇
 - [什么是MVVM](https://github.com/Easay/issuesSets/issues/55)
