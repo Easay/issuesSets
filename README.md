@@ -102,6 +102,7 @@
 - [执行上下文详解](https://github.com/mqyqingfeng/Blog/issues/4)（搬运）
 - [深入变量对象](https://github.com/mqyqingfeng/Blog/issues/5)（搬运）
 - [不用var声明和用var声明的区别](https://github.com/Easay/issuesSets/issues/130)
+- [为什么try..catch无法捕获promise中的错误](https://github.com/Easay/issuesSets/issues/136)
 
 
 ### CSS篇
