@@ -52,6 +52,7 @@
 - [Vue过滤器filter的使用](https://github.com/Easay/issuesSets/issues/123)
 - [Vuex学习笔记](https://github.com/Easay/issuesSets/issues/127)🍬
 - [Nuxt.js应用框架的使用](https://github.com/Easay/issuesSets/issues/131)
+- [如何监听路由变化及SPA实现原理](https://github.com/Easay/issuesSets/issues/143)
 
 
 
