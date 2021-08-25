@@ -54,6 +54,7 @@
 - [Nuxt.js应用框架的使用](https://github.com/Easay/issuesSets/issues/131)
 - [如何监听路由变化及SPA实现原理](https://github.com/Easay/issuesSets/issues/142)
 - [Vue中的插件plugin](https://github.com/Easay/issuesSets/issues/137)
+- [Vue中的插槽slot](https://github.com/Easay/issuesSets/issues/124)
 
 
 
