@@ -108,6 +108,7 @@
 - [为什么try..catch无法捕获promise中的错误](https://github.com/Easay/issuesSets/issues/136)
 - [JS数组中哪些遍历方法可以使用await](https://github.com/Easay/issuesSets/issues/138)
 - [Promise.all如何保存所有promise状态](https://github.com/Easay/issuesSets/issues/141)
+- [异步并发数量限制](https://github.com/Easay/issuesSets/issues/143)
 
 
 ### CSS篇
